@@ -1,9 +1,3 @@
-# Repository directory
-/repos/
-
-# Configuration files
-.config*
-
 # Temporary and editor files
 *~
 *swp
@@ -12,9 +6,6 @@
 .\#*
 \#_*\#
 .\#_*
-
-# Build output directory
-out/
 
 # Build output files
 *.o
@@ -38,7 +29,3 @@ out/
 *.zip
 *.Z
 *.7z
-
-# Test output files
-log.build.*
-log.run.*
